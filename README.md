@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suman Sarkar
 - 👀 I’m interested in WordPress,Woocommerce,Laravel,Shopify,MySql
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me hello@sumansarkar.in
+- 📫 How to reach me mpa.suman@gmail.com
 
 <!---
 sumansarkar/sumansarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
